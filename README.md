@@ -1,5 +1,5 @@
 # Database-Final-Project
-Proyecto Final de Base de Datos con la Docente Taidy Martinez - Universidad de Cartagena
+Proyecto Final de Base de Datos con la Docente Taidy Martinez - Universidad de Cartagena, Colombia
 
 Se realiza el planteamiento, el modelado y la recreacion de una Base de Datos de entorno hospitalario/clinico. Donde se declaran 7 entidades que se relacionan entre sí, aplicando los conceptos vistos en clases sobre modelos E/R y Relaciones, Algebra Relacional, Generalización con parcialidad, totalidad, solapamiento o exclisividad, y Normalizacion en sus tres casos en dependencia funcional e identificación de anomalías.
 
