@@ -1,5 +1,5 @@
 -- =============================================================================
--- ARCHIVO: crear_tablas.sql
+-- ARCHIVO: crear_tablas.sql            // REALIZADO POR: Andrés Cardenas 010, José Herrera 001 y Jader Morales 028
 -- =============================================================================
 BEGIN
     EXECUTE IMMEDIATE 'DROP TABLE PERSONA CASCADE CONSTRAINTS';

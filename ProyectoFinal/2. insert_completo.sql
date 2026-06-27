@@ -1,3 +1,4 @@
+--  // REALIZADO POR: Andrés Cardenas 010, José Herrera 001 y Jader Morales 028
 -- =============================================================================
 -- INSERTS TABLA PERSONA                   --> 1008 personas en total  | 1000 pacientes | 8 doctores
 -- =============================================================================
